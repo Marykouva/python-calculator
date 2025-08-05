@@ -1,0 +1,6 @@
+#Learning How To Assign Variables
+num = 24
+print(num)
+#Assigning new variable to num
+num = 67
+print(num)
